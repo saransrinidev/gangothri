@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Central business details for Gangothri Jyothishalayam.
  *
  * EVERYTHING in square brackets is placeholder content. Replace it with the
@@ -89,13 +89,13 @@ export const nav: NavItem[] = [
  */
 export const profile = {
   shortIntro:
-    "Gangothri Jyothishalayam is the practice of [Astrologer Full Name], a traditional Kerala astrologer who follows the classical methods of Jyothisham as they have been handed down through generations of practitioners in Kerala.",
+    "Gangothri Jyothishalayam is the practice of Usha S, a traditional Kerala astrologer who follows the classical methods of Jyothisham as they have been handed down through generations of practitioners in Kerala.",
   lineage:
     "The knowledge practised here comes from the [Family / Tharavadu Name] family of [Hometown], where astrology has been studied and practised for [number] generations. [Add the names of family elders or the guru under whom the astrologer trained.]",
   knowledge:
     "Consultations draw on the classical texts studied in the Kerala tradition, such as Brihat Parasara Hora Sastra, Prasna Marga and Muhurtha texts, together with careful calculation from the Panchangam. [Edit to list the texts and systems the astrologer actually follows.]",
   experience:
-    "[Astrologer Full Name] has been offering consultations for [XX] years. [Add a short, factual note about the practice — where it began, and the kinds of consultations most often requested.]",
+    "Usha S has been offering consultations for 20 years. [Add a short, factual note about the practice — where it began, and the kinds of consultations most often requested.]",
   biography: [
     "[Write a personal introduction in the astrologer's own voice: where they grew up, how they first came to astrology, and what the practice means to them.]",
     "[Describe the years of learning — the teachers, the texts studied, the daily discipline of calculation and observation — and how the practice developed into Gangothri Jyothishalayam.]",
@@ -114,3 +114,4 @@ export const profile = {
     "Ashtamangala Prasnam",
   ],
 };
+

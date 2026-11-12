@@ -77,7 +77,7 @@ function Hero() {
             </div>
 
             {/* translucent card, like "See other offers" */}
-            <div style={{ animationDelay: "300ms" }} className="flex animate-rise flex-col justify-between gap-4 rounded-[1.5rem] border border-ivory/20 bg-ivory/10 p-5 text-ivory backdrop-blur-md sm:mt-24">
+            <div style={{ animationDelay: "300ms" }} className="flex animate-rise flex-col justify-between gap-4 rounded-[1.5rem] border border-ivory/20 bg-maroon-950/70 p-5 text-ivory backdrop-blur-md sm:mt-24">
               <div>
                 <p className="font-serif text-2xl">Kerala Rashi Chakra</p>
                 <KeralaChart tone="light" className="mt-4 w-full max-w-[220px]" title="Kerala style square horoscope chart" />
